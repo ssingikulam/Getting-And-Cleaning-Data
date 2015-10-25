@@ -10,3 +10,4 @@ The Steps involved are below:
     Appropriately labels the data set with descriptive variable names. 
     From the data set in step 4, creates a second, independent tidy data set with the average of each variable 
     for each activity and each subject.
+The script used for this purpose is rn_analysis.R.  This executes all the steps detailed above and finally writes a tidy file called "tidy_data.txt"
