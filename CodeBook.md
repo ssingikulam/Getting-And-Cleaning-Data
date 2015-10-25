@@ -1,4 +1,5 @@
 Getting and Cleaning Data Course Project Code Book
+
 This describes the variables, data and the transformations that I performed to clean up the data.
 The original data for this project is obtained from:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
